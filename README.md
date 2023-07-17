@@ -1,2 +1,2 @@
 # FC_NN
-Simple fully connected layer with MNIST dataset
+Simple fully connected NN with MNIST dataset
